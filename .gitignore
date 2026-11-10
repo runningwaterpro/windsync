@@ -1,0 +1,10 @@
+# 用户数据。绝对不进公开仓库。
+current/
+archive/*.zip
+
+# 本机状态：机器名、清风路径、世代号、日志
+.local/
+
+# Python 缓存
+__pycache__/
+*.pyc
